@@ -1,3 +1,15 @@
+Inventory & Stock Management System
+
+Features:
+- Product & Category CRUD
+- Stock In / Stock Out
+- Low stock alerts
+- Admin & Store Manager roles
+
+Tech Stack:
+- React (Vite)
+- Node.js + Express
+- MongoDB
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
